@@ -1,3 +1,3 @@
 # CodeWarsSolutions
 
-Here I will be hsraing my solutions for Code Wars Challenges
+Here I will be sharing my solutions for Code Wars Challenges
